@@ -89,3 +89,4 @@ you may find further down the line that you want to automate / build your own to
 
 #### Practice:
 [XSS](https://xss.challenge.training.hacq.me/)
+	- [preliminary reading](https://owasp.org/www-community/attacks/xss/)
