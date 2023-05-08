@@ -86,3 +86,6 @@ you may find further down the line that you want to automate / build your own to
 		- [What is a CVE](https://cve.mitre.org/docs/cve-intro-handout.pdf)
 		- [nvd](https://nvd.nist.gov/)
 		- [cvetrends](https://cvetrends.com/)
+
+#### Practice:
+[XSS](https://xss.challenge.training.hacq.me/)
