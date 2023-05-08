@@ -78,3 +78,11 @@ you may find further down the line that you want to automate / build your own to
 	- there are just.... so many...
 
 **OKEEEEE GLHF!** (=^ ◡ ^=)
+
+##### General question answers:
+* What is a vulnerability? What are common vulnerabilities?:
+	- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+	- CVEs
+		- [What is a CVE](https://cve.mitre.org/docs/cve-intro-handout.pdf)
+		- [nvd](https://nvd.nist.gov/)
+		- [cvetrends](https://cvetrends.com/)
