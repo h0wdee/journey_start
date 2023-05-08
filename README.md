@@ -74,4 +74,7 @@ you may find further down the line that you want to automate / build your own to
 		- [here's one on bug bountying!](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters)
 
 
-OKEEEEE GLHF! (=^ ◡ ^=)
+* blogs
+	- there are just.... so many...
+
+**OKEEEEE GLHF!** (=^ ◡ ^=)
